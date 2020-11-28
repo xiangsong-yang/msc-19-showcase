@@ -1,7 +1,7 @@
 ---
 slug: '/xiangsong-yang'
 artist: 'Xiangsong Yang'
-title: 'Example Project'
+title: 'Emotion Project'
 thumbnail: 'thumbnail.jpg'
 ---
 

@@ -1,10 +1,12 @@
 ---
-slug: '/Emotion communication'
+slug: '/xiangsong-yang''
 artist: 'Xiangsong Yang'
 title: 'Emotional Visualizer'
 thumbnail: 'cover.png'
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=ByVcCXy-KTw&t=15s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-container">
+  <iframe src="https://youtu.be/ByVcCXy-KTw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 ## Affective computing system
 The initial ideal of this system is to use the facial capture technology, FaceOSC, combing with an
 interactive machine learning application, Wekinator and a C++ based visualiser, to provide

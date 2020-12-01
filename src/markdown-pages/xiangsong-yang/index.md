@@ -23,7 +23,7 @@ The input for this system is the facial expression of the user. Xiangsong used F
 the data of the human face and make it usable for Wekinator by normalising and selecting with 8
 different parameters. These 8 parameter are sent in OSC channel /wek/input.
 
-![Input](INPUT.JPG)
+![Input](input.JPG)
 ## Wekinator
 This is the core of the system, that used a machine learning model to process inputs and map
 with outputs. The feature of the Interactive machine learning interface is providing a highly enduser friendly using experience. It also involve the users into the loop of design-refine mechanism,
@@ -33,7 +33,7 @@ Wekinator will process the inputs from FaceOSC and mapping the with 5 outputs to
 based on the control from the users.
 
 
-![Wekinator interface](Wekinator.JPG)
+![Wekinator interface](wekinator.JPG)
 
 ## Visualizer
 The visualiser developed based on OpenFrameWorks in C++.
@@ -47,7 +47,7 @@ both x and y direction)
 5. Movement speed (for controlling the line movement, the range is from 1-1.50x speed)
 The graphic design is illustrated with the image below.
 
-![Graphic design](Graphic.JPG)
+![Graphic design](graphic.JPG)
 
 ## Concept Proven experiment design
 With the curiosity and passion in understanding the emotions in telework communication and

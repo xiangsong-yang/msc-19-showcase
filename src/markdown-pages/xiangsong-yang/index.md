@@ -47,7 +47,7 @@ both x and y direction)
 5. Movement speed (for controlling the line movement, the range is from 1-1.50x speed)
 The graphic design is illustrated with the image below.
 
-![Graphic design](graphic.JPG)
+![Graphic design](graphic.JPG) 
 
 ## Concept Proven experiment design
 With the curiosity and passion in understanding the emotions in telework communication and
